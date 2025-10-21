@@ -2,7 +2,7 @@
 
 This is the general backend service of Easy Purchase
 
------
+----- 
 
 ## 🚀 Getting Started (Local Development)
 
@@ -85,6 +85,8 @@ poetry run scripts/test
 ## 🐳 Deploying with Docker
 
 This project is designed to be deployed as a Docker container.
+
+eu mexi aqui
 
 ### Building the Image
 
